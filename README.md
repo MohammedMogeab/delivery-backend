@@ -13,7 +13,7 @@ This service powers a system where:
 - **Language:** Go
 - **Architecture:** Modular monolith (clean-ish layering: domain, repository, service, transport)
 - **HTTP Framework:** Gin
-- **Database:** MySQL/PostgreSQL (via `database/sql` or ORM of your choice)
+- **Database:** MPostgreSQL (via `database/sql`  ORM )
 - **Cache / Realtime:** Redis (planned)
 - **Modules:** 
   - Auth & Users
